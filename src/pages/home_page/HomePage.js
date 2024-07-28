@@ -8,7 +8,7 @@ import Fade from "react-reveal/Fade";
 import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
 import { FaLinkedinIn, FaFacebookF, FaGoogle } from "react-icons/fa";
 import Certification from "../../pages/certificate_page/CertificatePage";
-import Projects from "../../components/projects/Projects";
+import Projects from "../../pages/project_page/ProjectPage";
 import Contactus from "../../components/contactus/Contactus";
 
 export default function Home() {
