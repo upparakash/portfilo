@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f2753a05.css",
+    "main.js": "/portfolio/static/js/main.3adaa37c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/nyc.png": "/portfolio/static/media/nyc.139298242835d62facd4.png",
+    "static/media/meal.png": "/portfolio/static/media/meal.8d0faeffa0fc80c3ca8c.png",
+    "static/media/hd.png": "/portfolio/static/media/hd.49765c958331f0edefe9.png",
+    "static/media/onboarding.png": "/portfolio/static/media/onboarding.542f8dee519b9dd4585f.png",
+    "static/media/eco.png": "/portfolio/static/media/eco.57b48b10b29e63b98396.png",
+    "static/media/academic.png": "/portfolio/static/media/academic.83cfb23eeff40e38689e.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.4993ce4fd7cc43cc80ec.pdf",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.ae12440ce9ed12e52fb6.png",
+    "static/media/company.jpg": "/portfolio/static/media/company.00207a2c7f89b268dd72.jpg",
+    "static/media/workshop.jpg": "/portfolio/static/media/workshop.bfb0e3201d644fc460be.jpg",
+    "static/media/pc.png": "/portfolio/static/media/pc.06ad21ea51446dc1062f.png",
+    "static/media/Vs.png": "/portfolio/static/media/Vs.19edc3fbac1c451f289d.png",
+    "static/media/pg.png": "/portfolio/static/media/pg.9f8f5cd98ce5726b002f.png",
+    "static/media/CBT&A.pdf": "/portfolio/static/media/CBT&A.eb3ff4f9f8793625b479.pdf",
+    "static/media/github.png": "/portfolio/static/media/github.345dc4a21070f9083ca7.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.94db060930d57854e12e.png",
+    "static/media/dc.png": "/portfolio/static/media/dc.92f52ea55245d0a60c47.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.e4c81c26304bc309eb55.svg",
+    "static/media/h3.jpg": "/portfolio/static/media/h3.dc52d5d40a40b13154b0.jpg",
+    "static/media/age.png": "/portfolio/static/media/age.4c61218df990d2501f64.png",
+    "static/media/calendar.png": "/portfolio/static/media/calendar.88c5e6578229aaa9bbc4.png",
+    "static/media/chorme.svg": "/portfolio/static/media/chorme.76eb99c03649b560eca4188fff132dcf.svg",
+    "index.html": "/portfolio/index.html",
+    "main.f2753a05.css.map": "/portfolio/static/css/main.f2753a05.css.map",
+    "main.3adaa37c.js.map": "/portfolio/static/js/main.3adaa37c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2753a05.css",
+    "static/js/main.3adaa37c.js"
+  ]
+}
