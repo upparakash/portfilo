@@ -3,6 +3,7 @@ import { Navbar, Nav, Container, Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
+import navPic from "../../images/profile1.png"
 
 import {
   AiFillStar,
@@ -36,7 +37,7 @@ export default function MyNav() {
       <Container>
         <Navbar.Brand href="/">
           <div className="d-flex flex-row justify-content-between">
-            <img src="./profile1.png" className="img-fluid logo" alt="brand" />
+            <img src={navPic} className="img-fluid logo" alt="brand" />
             <h5
               id="navhead"
               style={{

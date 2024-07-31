@@ -10,6 +10,7 @@ import { FaLinkedinIn, FaFacebookF, FaGoogle } from "react-icons/fa";
 import Certification from "../../pages/certificate_page/CertificatePage";
 import Projects from "../../pages/project_page/ProjectPage";
 import Contactus from "../../components/contactus/Contactus";
+import rightSideImage from "../../images/profile1.png"
 
 export default function Home() {
   return (
@@ -97,7 +98,8 @@ export default function Home() {
                 <Tilt>
                   <Fade cascade>
                     <img
-                      src="./profile1.png"
+                      // src="./profile1.png"
+                      src = {rightSideImage}
                       alt="home pic"
                       className="img-fluid"
                     />
